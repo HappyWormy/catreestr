@@ -1,4 +1,6 @@
 const express = require("express");
+const path = require('path')
+const PORT = process.env.PORT || 5000
 
 const app = express();
 // создаем парсер для данных в формате json
@@ -16,4 +18,4 @@ app.get("/", function(request, response){
     response.sendFile(__dirname + "/index.html");
 });
 
-app.listen(*);
+app.listen(PORT);
