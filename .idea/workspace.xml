@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7881d5e-3470-4892-a03a-806be92af557" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cats.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +42,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\nodejs\users\public" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -48,7 +59,7 @@
       <updated>1583491544230</updated>
       <workItem from="1583491545556" duration="4235000" />
       <workItem from="1583502117624" duration="128000" />
-      <workItem from="1583502253551" duration="2541000" />
+      <workItem from="1583502253551" duration="8518000" />
     </task>
     <servers />
   </component>
@@ -67,6 +78,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="2472" y="198" key="#Inspections" timestamp="1583512864810">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="198" key="#Inspections/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1583512864810" />
     <state x="2611" y="262" key="FileChooserDialogImpl" timestamp="1583502229051">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
