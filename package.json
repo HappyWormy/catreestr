@@ -1,0 +1,11 @@
+{
+  "name": "users",
+  "version": "1.0.0",
+  "dependencies": {
+    "cjs": "0.0.11",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
